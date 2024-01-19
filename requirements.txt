@@ -1,0 +1,9 @@
+Django==4.0.3
+Pillow
+cryptography
+more-itertools
+mysql-connector-python
+reportlab
+requests
+config
+plotly
